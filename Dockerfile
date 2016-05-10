@@ -1,7 +1,7 @@
 FROM sameersbn/ubuntu:14.04.20160504
 MAINTAINER sameer@damagehead.com
 
-ENV RTMP_VERSION=1.1.7 \
+ENV RTMP_VERSION=1.1.7.10 \
     NPS_VERSION=1.9.32.10 \
     NGINX_VERSION=1.8.1 \
     NGINX_USER=www-data \
